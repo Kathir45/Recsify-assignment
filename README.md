@@ -1,8 +1,13 @@
 # Interactive Mindmap Visualizer
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/deployed/color/success/message/deployed)](https://recsify-kathir.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://recsify-kathir.netlify.app/)
+
 An interactive, data-driven mindmap visualization built with React and Cytoscape.js. This project demonstrates hierarchical data visualization with rich user interactions including hover tooltips, node selection, expand/collapse functionality, and smooth zoom/pan controls.
 
-![Mindmap Preview](screenshot.png)
+**🚀 [View Live Demo](https://recsify-kathir.netlify.app/)**
+
+![Mindmap Preview](mindmap-export.png)
 
 ## 📋 Table of Contents
 
