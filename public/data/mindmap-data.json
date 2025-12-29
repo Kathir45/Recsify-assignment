@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "title": "Vitamins in Human Body",
+    "description": "Essential micronutrients required for normal metabolic function, growth, and overall health",
+    "contentType": "mindmap",
+    "nodeCount": 23
+  },
+  "nodes": [
+    {
+      "id": "root",
+      "data": {
+        "label": "Vitamins in Human Body",
+        "type": "root",
+        "summary": "Essential micronutrients required for normal metabolic function, growth, and overall health.",
+        "details": "Vitamins are organic compounds that are essential in small quantities for normal physiological functions. They cannot be synthesized in sufficient amounts by the body and must be obtained through diet. They play crucial roles in energy production, immune function, blood clotting, and other vital processes."
+      }
+    },
+    {
+      "id": "cat_classification",
+      "data": {
+        "label": "Vitamin Classification",
+        "type": "category",
+        "summary": "Vitamins are classified based on their solubility in fats or water.",
+        "details": "This fundamental distinction influences their absorption, storage, excretion mechanisms, and dietary intake recommendations. Fat-soluble vitamins can be stored in the body and may accumulate to toxic levels, while water-soluble vitamins are not easily stored and excess amounts are typically excreted."
+      }
+    },
+    {
+      "id": "cat_fat_soluble",
+      "data": {
+        "label": "Fat-Soluble Vitamins",
+        "type": "subcategory",
+        "summary": "Vitamins A, D, E, and K - stored in fatty tissues and liver.",
+        "details": "These vitamins are absorbed with dietary fats in the intestine and require bile salts for proper assimilation. They are stored in the liver and fatty tissues, leading to slower excretion rates and potential for hypervitaminosis if consumed in excess."
+      }
+    },
+    {
+      "id": "cat_water_soluble",
+      "data": {
+        "label": "Water-Soluble Vitamins",
+        "type": "subcategory",
+        "summary": "B-complex vitamins and Vitamin C - not easily stored in the body.",
+        "details": "These vitamins dissolve in water and are not stored in significant amounts. Excess quantities are excreted through urine. Regular dietary intake is essential to prevent deficiencies as the body has limited reserves and cannot produce most of them."
+      }
+    },
+    {
+      "id": "vit_a",
+      "data": {
+        "label": "Vitamin A (Retinol)",
+        "type": "vitamin",
+        "summary": "Essential for vision, immune function, and cell growth.",
+        "details": "Found in liver, carrots, sweet potatoes, spinach, and dairy products. Critical for maintaining healthy vision, particularly night vision, supporting immune system function, and promoting proper cell growth and differentiation. Deficiency can lead to night blindness and impaired immunity."
+      }
+    },
+    {
+      "id": "vit_d",
+      "data": {
+        "label": "Vitamin D (Calciferol)",
+        "type": "vitamin",
+        "summary": "Regulates calcium absorption and bone health.",
+        "details": "Primarily produced in skin via sunlight exposure, also found in fatty fish and fortified foods. Essential for calcium and phosphate absorption, critical for maintaining bone density and strength. Deficiency can cause rickets in children and osteomalacia or osteoporosis in adults."
+      }
+    },
+    {
+      "id": "vit_e",
+      "data": {
+        "label": "Vitamin E (Tocopherol)",
+        "type": "vitamin",
+        "summary": "Powerful antioxidant protecting cells from damage.",
+        "details": "Found in nuts, seeds, vegetable oils, and green leafy vegetables. Acts as an antioxidant protecting cell membranes from oxidative damage. Supports immune function and helps prevent chronic diseases. Deficiency is rare but can cause nerve and muscle damage."
+      }
+    },
+    {
+      "id": "vit_k",
+      "data": {
+        "label": "Vitamin K (Phylloquinone)",
+        "type": "vitamin",
+        "summary": "Essential for blood clotting and bone metabolism.",
+        "details": "Found in leafy green vegetables, broccoli, and vegetable oils. Crucial for the synthesis of proteins required for blood coagulation and bone metabolism. Deficiency can lead to excessive bleeding and weakened bones."
+      }
+    },
+    {
+      "id": "vit_b_complex",
+      "data": {
+        "label": "B-Complex Vitamins",
+        "type": "vitamin",
+        "summary": "Group of 8 vitamins essential for energy metabolism.",
+        "details": "Includes B1 (Thiamine), B2 (Riboflavin), B3 (Niacin), B5 (Pantothenic acid), B6 (Pyridoxine), B7 (Biotin), B9 (Folate), and B12 (Cobalamin). Critical for converting food into energy, forming red blood cells, and maintaining nervous system health."
+      }
+    },
+    {
+      "id": "vit_c",
+      "data": {
+        "label": "Vitamin C (Ascorbic Acid)",
+        "type": "vitamin",
+        "summary": "Powerful antioxidant supporting immune function and collagen synthesis.",
+        "details": "Abundant in citrus fruits, berries, peppers, and broccoli. Essential for collagen synthesis, wound healing, and iron absorption. Acts as an antioxidant protecting against cellular damage. Deficiency causes scurvy, characterized by bleeding gums and poor wound healing."
+      }
+    },
+    {
+      "id": "cat_roles",
+      "data": {
+        "label": "Key Bodily Roles",
+        "type": "category",
+        "summary": "Vitamins perform diverse and critical functions across all major organ systems.",
+        "details": "Acting as coenzymes, antioxidants, and regulators, vitamins are indispensable for biochemical reactions that support growth, development, metabolism, and maintenance of optimal health and cellular processes."
+      }
+    },
+    {
+      "id": "role_energy",
+      "data": {
+        "label": "Energy Metabolism",
+        "type": "role",
+        "summary": "B-complex vitamins help convert food into usable energy.",
+        "details": "Vitamins B1, B2, B3, B5, and B6 are essential cofactors in metabolic pathways that break down carbohydrates, fats, and proteins to produce ATP, the body's primary energy currency."
+      }
+    },
+    {
+      "id": "role_immunity",
+      "data": {
+        "label": "Immune Support",
+        "type": "role",
+        "summary": "Vitamins A, C, D, and E strengthen immune defenses.",
+        "details": "These vitamins support the production and function of white blood cells, antibodies, and other immune components. They help the body fight infections and reduce inflammation."
+      }
+    },
+    {
+      "id": "role_bone",
+      "data": {
+        "label": "Bone Health",
+        "type": "role",
+        "summary": "Vitamins D and K are critical for strong bones.",
+        "details": "Vitamin D facilitates calcium absorption in the intestines, while Vitamin K is necessary for bone protein synthesis. Together they maintain bone density and prevent osteoporosis."
+      }
+    },
+    {
+      "id": "role_antioxidant",
+      "data": {
+        "label": "Antioxidant Protection",
+        "type": "role",
+        "summary": "Vitamins C and E protect cells from oxidative damage.",
+        "details": "These antioxidants neutralize free radicals that can damage DNA, proteins, and cell membranes. This protection helps prevent chronic diseases and supports healthy aging."
+      }
+    },
+    {
+      "id": "cat_sources",
+      "data": {
+        "label": "Dietary Sources",
+        "type": "category",
+        "summary": "Vitamins are obtained through a balanced diet including various food groups.",
+        "details": "A diverse diet of fruits, vegetables, grains, meats, dairy products, along with sunlight exposure for Vitamin D, ensures adequate intake of these essential micronutrients."
+      }
+    },
+    {
+      "id": "source_fruits",
+      "data": {
+        "label": "Fruits & Vegetables",
+        "type": "source",
+        "summary": "Rich in vitamins A, C, K, and folate.",
+        "details": "Citrus fruits (Vitamin C), carrots and sweet potatoes (Vitamin A), leafy greens (Vitamins K and folate), berries (Vitamin C and antioxidants)."
+      }
+    },
+    {
+      "id": "source_meat",
+      "data": {
+        "label": "Meat & Dairy",
+        "type": "source",
+        "summary": "Primary sources of B-complex vitamins and Vitamin A.",
+        "details": "Red meat and poultry (B vitamins), fish (Vitamins D and B12), eggs (Vitamins A, D, and B12), dairy products (Vitamins A, D, and B12)."
+      }
+    },
+    {
+      "id": "source_grains",
+      "data": {
+        "label": "Grains, Nuts & Seeds",
+        "type": "source",
+        "summary": "Good sources of B vitamins and Vitamin E.",
+        "details": "Whole grains (B vitamins), nuts and seeds (Vitamin E and B vitamins), legumes (B vitamins and folate)."
+      }
+    },
+    {
+      "id": "source_fortified",
+      "data": {
+        "label": "Fortified Foods",
+        "type": "source",
+        "summary": "Foods enriched with added vitamins.",
+        "details": "Fortified cereals, milk, orange juice, and plant-based milk alternatives often contain added vitamins D, B12, and others to help meet dietary requirements."
+      }
+    },
+    {
+      "id": "cat_health",
+      "data": {
+        "label": "Health Impact",
+        "type": "category",
+        "summary": "Both deficiencies and excesses can lead to health problems.",
+        "details": "Maintaining adequate vitamin levels is crucial for optimal health. Imbalances can manifest in various symptoms and conditions, significantly affecting quality of life if not addressed."
+      }
+    },
+    {
+      "id": "health_deficiency",
+      "data": {
+        "label": "Deficiency Effects",
+        "type": "impact",
+        "summary": "Insufficient vitamin intake causes various health issues.",
+        "details": "Common deficiency symptoms include fatigue, weakened immunity, poor wound healing, bone problems, anemia, and neurological issues. Severe deficiencies can lead to specific diseases like scurvy, rickets, or beriberi."
+      }
+    },
+    {
+      "id": "health_excess",
+      "data": {
+        "label": "Toxicity Risks",
+        "type": "impact",
+        "summary": "Excessive intake of fat-soluble vitamins can be harmful.",
+        "details": "While water-soluble vitamins are generally safe in excess, fat-soluble vitamins (A, D, E, K) can accumulate to toxic levels causing nausea, liver damage, bone problems, and other serious health issues."
+      }
+    }
+  ],
+  "edges": [
+    { "source": "root", "target": "cat_classification", "type": "categorizes" },
+    { "source": "root", "target": "cat_roles", "type": "categorizes" },
+    { "source": "root", "target": "cat_sources", "type": "categorizes" },
+    { "source": "root", "target": "cat_health", "type": "categorizes" },
+    
+    { "source": "cat_classification", "target": "cat_fat_soluble", "type": "divides" },
+    { "source": "cat_classification", "target": "cat_water_soluble", "type": "divides" },
+    
+    { "source": "cat_fat_soluble", "target": "vit_a", "type": "includes" },
+    { "source": "cat_fat_soluble", "target": "vit_d", "type": "includes" },
+    { "source": "cat_fat_soluble", "target": "vit_e", "type": "includes" },
+    { "source": "cat_fat_soluble", "target": "vit_k", "type": "includes" },
+    
+    { "source": "cat_water_soluble", "target": "vit_b_complex", "type": "includes" },
+    { "source": "cat_water_soluble", "target": "vit_c", "type": "includes" },
+    
+    { "source": "cat_roles", "target": "role_energy", "type": "includes" },
+    { "source": "cat_roles", "target": "role_immunity", "type": "includes" },
+    { "source": "cat_roles", "target": "role_bone", "type": "includes" },
+    { "source": "cat_roles", "target": "role_antioxidant", "type": "includes" },
+    
+    { "source": "cat_sources", "target": "source_fruits", "type": "includes" },
+    { "source": "cat_sources", "target": "source_meat", "type": "includes" },
+    { "source": "cat_sources", "target": "source_grains", "type": "includes" },
+    { "source": "cat_sources", "target": "source_fortified", "type": "includes" },
+    
+    { "source": "cat_health", "target": "health_deficiency", "type": "includes" },
+    { "source": "cat_health", "target": "health_excess", "type": "includes" }
+  ],
+  "hierarchy": {
+    "root": ["cat_classification", "cat_roles", "cat_sources", "cat_health"],
+    "cat_classification": ["cat_fat_soluble", "cat_water_soluble"],
+    "cat_fat_soluble": ["vit_a", "vit_d", "vit_e", "vit_k"],
+    "cat_water_soluble": ["vit_b_complex", "vit_c"],
+    "cat_roles": ["role_energy", "role_immunity", "role_bone", "role_antioxidant"],
+    "cat_sources": ["source_fruits", "source_meat", "source_grains", "source_fortified"],
+    "cat_health": ["health_deficiency", "health_excess"]
+  }
+}
